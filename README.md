@@ -72,6 +72,8 @@ curl --location --request PUT 'http://localhost:8000/api/portfolio/68f9ec12bced1
 }'
 ```
 
+<h2>Transactions</h2>
+
 Get transactions - GET - http://localhost:8000/api/transaction
 
 ```
